@@ -13,5 +13,8 @@ Ce lab montre comment :
 
 ### les tailles des fichiers
 
+<img width="1916" height="1033" alt="Screenshot 2025-11-27 121547" src="https://github.com/user-attachments/assets/c23f8153-8c8e-442f-9599-017f23e309c6" />
 
 ### la taille occupée et des performances
+
+<img width="1913" height="1033" alt="Screenshot 2025-11-27 121612" src="https://github.com/user-attachments/assets/b4ba3ef5-4b6a-477b-982b-d60e2db968ce" />
